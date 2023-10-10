@@ -8,7 +8,7 @@
 
 ## Description
 
- A Java based applicaiton that is a Basic School Management System where students can register for courses, and view the course assigned to them.
+ A Java based application that is a Basic School Management System where students can register for courses, and view the course assigned to them.
 
 
 ## Technologies Used
